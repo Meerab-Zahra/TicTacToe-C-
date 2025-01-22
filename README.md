@@ -1,2 +1,1 @@
-# TicTacToe-C-
-A simple Tic Tac Toe game implemented in C++ with a user-friendly console interface. Great for learning basic programming concepts.
+This is a classic Tic Tac Toe game developed in C++ as a beginner-level project. The game features a 3x3 grid where two players can compete, or a single player can challenge the CPU. It includes an interactive main menu, user-friendly gameplay, and file handling for saving and displaying player reviews. Designed for simplicity and fun, it offers features like game restart and turn validation to enhance the experience. 
